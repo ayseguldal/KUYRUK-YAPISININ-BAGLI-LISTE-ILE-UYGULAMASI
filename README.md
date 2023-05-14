@@ -21,4 +21,5 @@ Proje aşağıdaki işlemlerden birisi seçilerek çalışır.Çıkış yapılma
 
 ***Void ElemanEkleme(int sayi)***: Değer döndürmeyen ve kullanıcıdan eklenecek elemanı parametre olarak alan fonksiyondur.
 ***Void ElemanSil()***: Değer döndürmeyen ve parametre almayan fonksiyondur.Parametresiz çünkü kuyruk yapısında eleman silme işlemi baştaki elemandan olduğu içindir.
+
 ***Void yazdir()***: Ekrana yazdırma işlemini yapar. Parametre almasına ve değer döndürmesine gerek yoktur.
